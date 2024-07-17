@@ -45,7 +45,7 @@ For high-dimensional Gaussian Mixtures sampling optimized with CUDA, we provide 
    
 The notebook automatically detects and uses a CUDA-enabled GPU if available, falling back to CPU if not.
 
-## Additional Files
+### Additional Files
 
 - `high_dimension/func.py`: Contains core SFS implementation with CUDA and PyTorch optimizations.
 - `high_dimension/utils.py`: Utility functions for data generation and analysis.
