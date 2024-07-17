@@ -30,5 +30,4 @@ The SFS is implemented to sample from Gaussian mixture models across various dim
 Run the demo Jupyter notebook to see SFS performance across dimensions from 10 to 1000:
 
 1. Ensure you have Jupyter Notebook or JupyterLab installed.
-2. Open a terminal and navigate to the repository directory.
-3. Launch Jupyter:
+2. Run the Jupyter notebook: `demo_gauss_cuda.ipynb`.
