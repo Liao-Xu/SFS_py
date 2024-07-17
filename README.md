@@ -51,3 +51,16 @@ The notebook automatically detects and uses a CUDA-enabled GPU if available, fal
 - `high_dimension/utils.py`: Utility functions for data generation and analysis.
 
 This demo showcases SFS's ability to efficiently sample from Gaussian mixtures in various dimensions, from 10 to 1000 dimension, leveraging batch computational techniques for optimal performance in high-dimensional spaces.
+
+## Citation
+
+If you use this implementation in your research, please cite our paper:
+
+```bibtex
+@article{huang2021schrodinger,
+  title={Schr{\"o}dinger-F{\"o}llmer sampler: sampling without ergodicity},
+  author={Huang, Jian and Jiao, Yuling and Kang, Lican and Liao, Xu and Liu, Jin and Liu, Yanyan},
+  journal={arXiv preprint arXiv:2106.10880},
+  volume={1},
+  year={2021}
+}
