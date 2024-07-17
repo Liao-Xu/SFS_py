@@ -8,7 +8,7 @@ To install requirements:
 
 ```setup
 pip install -r requirements.txt
-
+```
 
 ## Sampling on the 1D setting
 
