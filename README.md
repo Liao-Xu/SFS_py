@@ -1,6 +1,8 @@
-# Schrödinger-Föllmer Sampler for Gaussian Mixtures
+# Schrödinger-Föllmer Sampler
 
-This repository contains the Python implementation of the Schrödinger-Föllmer Sampler (SFS) for Gaussian Mixtures, including demonstrations in 1D, 2D, and high-dimensional settings.
+This repository contains the Python implementation of the Schrödinger-Föllmer Sampler (SFS), including demonstrations in 1D, 2D, and high-dimensional settings. 
+
+Find our manuscript in ***IEEE Transactions on Information Theory***: https://ieeexplore.ieee.org/abstract/document/10815994.
 
 ## Requirements
 
@@ -57,11 +59,14 @@ This demo showcases SFS's ability to efficiently sample from Gaussian mixtures i
 If you use this implementation in your research, please cite our paper:
 
 ```bibtex
-@article{huang2021schrodinger,
-  title={Schr{\"o}dinger-F{\"o}llmer sampler: sampling without ergodicity},
+@article{10815994,
   author={Huang, Jian and Jiao, Yuling and Kang, Lican and Liao, Xu and Liu, Jin and Liu, Yanyan},
-  journal={arXiv preprint arXiv:2106.10880},
-  volume={1},
-  year={2021}
+  journal={IEEE Transactions on Information Theory}, 
+  title={Schrödinger-Föllmer Sampler}, 
+  year={2025},
+  volume={71},
+  number={2},
+  pages={1283-1299},
+  doi={10.1109/TIT.2024.3522494}
 }
 ```
