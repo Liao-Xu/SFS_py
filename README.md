@@ -1,8 +1,6 @@
 # Schrödinger-Föllmer Sampler
 
-This repository contains the Python implementation of the Schrödinger-Föllmer Sampler (SFS), including demonstrations in 1D, 2D, and high-dimensional settings. 
-
-Find our manuscript in ***IEEE Transactions on Information Theory***: https://ieeexplore.ieee.org/abstract/document/10815994.
+This repository contains the Python implementation of the Schrödinger-Föllmer Sampler (SFS), including demonstrations in 1D, 2D, and high-dimensional settings. Find our manuscript in ***IEEE Transactions on Information Theory***: https://ieeexplore.ieee.org/abstract/document/10815994.
 
 ## Requirements
 
